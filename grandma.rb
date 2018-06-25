@@ -21,4 +21,6 @@ def speak_to_grandma(words)
     return "NO, NOT SINCE 1938"
   else
     #did not shout
-    return
+    return "HUH?! SPEAK UP, SONNY!"
+  end
+end
