@@ -14,4 +14,4 @@
 
 def speak_to_grandma(words)
   #did you shout
-  if(words == words.toCap)
+  if(words == words.upCase)
